@@ -1,5 +1,5 @@
 # Defect-Tracking-System
 
 Please take note: 
-User Name: student
-Paswword: 1234
+User Name--> student
+ and Pasword--> 1234
