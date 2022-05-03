@@ -2,4 +2,4 @@
 
 Please take note: 
 User Name--> student
- and Pasword--> 1234
+ and Password--> 1234
